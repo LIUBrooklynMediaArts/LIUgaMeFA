@@ -1,0 +1,21 @@
+Hello, and welcome to the Facebook page of the LIU Brooklyn Game and App Design and Development MFA program!
+
+We are a new full-time, two-year, 48-credit cohort-based graduate studio program in the Media Arts department at LIU Brooklyn, a private university located in the vibrant heart of the greatest city in the world (Manhattan is alright too, we guess).
+
+Our goal is to help students get jobs designing and making games and apps - well-paying, full-time jobs that let them exercise significant creative agency and offer meaningful opportunities for advancement.
+
+In pursuit of this goal, the program has a tight focus on developing for rapidly growing mobile VR and AR platforms like Samsung VR using the industry-standard Unreal Engine.
+
+The focus is there because that's where a great deal of the money will be, alongside as much creative opportunity as anywhere else.
+
+The focus is this tight to make sure that students graduate with a depth of expertise that will make them immediately employable, while giving them a strong foundation for further professional and creative growth in a range of directions most relevant to their personal interests.
+
+For more details about the program structure and curriculum, see [link to program structure post]
+
+For instructions on how to apply, see [link to application instructions post]
+
+To ask about anything and everything else not covered by these posts, click the Send Email button or email me directly at ilya DOT zarembsky AT liu DOT edu. I am always happy to answer your questions over email and/or talk over Skype.
+
+Cheers,
+Ilya Zarembsky
+Director, LIU gaMeFA

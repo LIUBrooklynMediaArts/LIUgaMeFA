@@ -1,0 +1,65 @@
+MFA program structure
+
+The LIU Game and App Design and Development MFA program 
+
+The LIU Game and App Design and Development MFA program (LIU gaMeFA for short) is a full-time, two-year, 48-credit cohort-based studio graduate program More specifically, the program focuses on game and app design and development for mobile VR and AR platforms like Samsung Gear VR and the forthcoming Magic Leap, using the popular and powerful Unreal Engine. 
+
+Let's go through what that means in more detail, piece by piece.
+
+
+
+"COHORT-BASED"
+Everyone coming into the program in each year takes the same classes together for the full two year duration of the program *. This set curriculum consists of three four-semester course sequences:
+
+- A sequence focused on developing technical expertise with Unreal Engine and other industry-standard content production/editing/management tools, and on developing a constructive and respected online presence in those tools' online communities.
+
+- A sequence focused on developing broad game and app literacy, and on analyzing and understanding the design and business considerations - UX best practices, monetization models, and more - specific to mobile VR and AR platforms.
+
+* with a small number of exceptions for electives after the first semester
+
+"FULL-TIME"
+Though scheduled class time is limited to about 12 hours a week, all classes take place during weekday daytime hours, and an additional 6 hour weekday daytime block is set aside for team-based project work. Students will also need to devote 15-20+ additional hours a week to homework to get full value out of the curriculum and ensure they are employable upon graduation. 
+
+Because of this, and because taking full advantage of the vital extracurricular educational and networking opportunities that studying in New York provides also means making time every week to prepare for and attend events, meetups, festivals, and/or exhibits, we discourage you in the strongest terms from working full-time or undertaking other comparable non-academic time commitments while enrolled in the program.
+
+We appreciate that working full-time may feel like the only or most practical way to eat and pay rent while studying, but, put simply, you will not have sufficient study time to get your tuition money's worth if you do so. You will be better off in the long run, financially and professionally, if you restrict yourself to working part-time and take out more in loans to cover the difference. 
+
+For our part, we will help you look for and apply for additional sources of funding, and will happily share all our insider experience with making ends meet in New York on a tight budget. 
+
+"TWO-YEAR"
+You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering cohort. We will do our utmost to help you make the necessary timely progress, but there will be no exceptions to this requirement.
+
+The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
+
+We will help you structure that time so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
+
+
+The LIU gaMeFA is a two 48-credit cohort-based studio graduate program. Let's go 
+
+-------
+GDP 610
+Functional Gaming / Interactive Media I 
+
+Credits: 6
+Time: Mondays 10AM - 5PM
+
+This class is the first in the Game and App Design and Development MFA program's required four-semester studio production sequence. As such, it is designed to serve as practice and preparation for the sequence's main two-and-a-half-semester capstone project, in which students work in teams to design, develop, market, and promote and original mobile VR / AR game or app. To those ends, students complete multiple test runs through parts of the development pipeline in the form of purposefully constrained and ordered 1-4 week game/app production assignments. They work with different cohort-mates and/or in a different role on each assignment, getting to know each other's strengths and interests and jointly figuring out the most effective team distributions and compositions for the capstone project.
+
+-------
+GDP 611
+Platform Design Tools I
+
+Credits: 3
+Time: Tuesdays 10AM - 1PM
+
+In this course, students complete in-class hands-on exercises and weekly individual problem sets to develop technical and scripting proficiency with the Unreal Engine - the powerful, versatile, and popular professional-grade development environment used in the Game and App Design and Development MFA program's production studio classes. Topics covered include understanding and customizing the interface and project and editor settings, sourcing and importing assets, adding functionality through plug-in modules, packaging and distributing projects for specific platforms, creating adding and modifying game actors and static level objects, editing and creating C++ scripts to drive actor and world behavior, working with the Blueprints visual scripting system, and more. Assignments scale to accommodate students' prior familiarity with Unreal / other 3D engines, and their level of programming experience.
+
+-------
+GDP 612
+Gaming Studies / Theory
+
+Credits: 3
+Time: Tuesdays 2PM - 5PM
+
+TO:
+A critical play lab designed to develop broad familiarity with the history of digital games and apps, as well as the advanced mobile VR/AR platform literacy necessary to produce the most relevant and innovative work in the Game and App Design and Development MFA program's production studio classes. Students play, discuss, and analyze a large numer of influential games and apps, completing presentation and critical report assigments that develop their verbal and written communication skills and that focus their attention on platform-specific UX, design, and business choices and considerations.  
