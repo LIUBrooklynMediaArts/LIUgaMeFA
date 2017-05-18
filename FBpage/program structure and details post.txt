@@ -1,15 +1,92 @@
-LIU Game and App Design and Development MFA (LIU gaMeFA for short): Program structure, focus, limitations, goals, and expectations
+The LIU Game and App Design and Development MFA (LIU gaMeFA for short) is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in game and app design and development.
+
+DOES THE PROGRAM HAVE A SPECIFIC FOCUS?
+Yes, and it is deliberately narrow. All projects you work on in the program will use the Unreal Engine and target mobile VR / AR platforms like the Samsung Gear VR and the upcoming Magic Leap.
+
+WHY IS THE FOCUS SO NARROW?
+To maximize how much you can benefit from your fellow students' experience as you progress through the program together, and to make sure that your skills are deep and well-defined enough to make you employable upon graduation.
+
+WHY IS MOBILE VR / AR THE FOCUS RATHER THAN SOMETHING ELSE?
+Because this is where a great number of the best jobs and most exciting creative opportunities in game and app development will be over the coming decade+, both in New York specifically and nation- and world-wide. For example, NYC has just this year committed $6 million to helping open a VR / AR coworking and event and startup incubator lab space.
+
+I WANT TO HAVE THE FREEDOM TO MAKE GAMES/APPS FOR OTHER PLATFORMS / USE OTHER DEVELOPMENT TOOLS. WHAT SHOULD I DO?
+You should consider enrolling in one of the many other excellent graduate game design programs available around the country and the world. Our program's narrow and rigid focus would probably frustrate, depress, and demotivate you!
+
+See the questions about AAA/console development, indie development, and teaching below for more details and some suggestions on how to go about pursuing those other interests.
+
+BUT THIS IS A MASTER OF FINE ARTS PROGRAM! WHAT ABOUT FREEDOM OF EXPRESSION?
+Freedom of expression is worth little if you don't have the technical skill to express what you want, or the money to feed yourself and your family while you do it. This program will give you a solid, flexible foundation on which to build an original creative practice while making a stable living.
+
+OK, SO, WHAT IS THE CURRICULUM LIKE, THEN? AND WHAT DOES IT MEAN THAT THE PROGRAM IS "COHORT-BASED"?
+Everyone coming into the program each year - each cohort, comprised of somewhere between 12 and 20 students - takes the same classes together for the full two year duration of the program*. This set curriculum consists of three main course sequences:
+
+- The main studio sequence, in which students work in teams designing and developing multiple game/app prototypes. This sequence culminates in a year+-long original thesis project.
+
+- A sequence focused on developing technical expertise with Unreal Engine and ancillary content production/editing tools, and on developing a constructive and respected online presence in those tools' online communities.
+
+- A sequence focused on developing broad game and app literacy, and on analyzing and understanding the design and business considerations - UX best practices, monetization models, and more - specific to mobile VR and AR platforms.
+
+*with a very limited number of exceptions for electives in the second year.
+
+CAN YOU DESCRIBE THE CLASSES IN SOME MORE DETAIL?
+Gladly. Here are the course descriptions for the first class in each of the three sequences. Students take these in the fall semester of their first year in the program.
+
+The main production sequence:
+GDP 610 / Functional Gaming / Interactive Media I 
+This class is the first in the Game and App Design and Development MFA program's required four-semester studio production sequence. As such, it is designed to serve as practice and preparation for the sequence's main two-and-a-half-semester capstone project, in which students work in teams to design, develop, market, and promote and original mobile VR / AR game or app. To those ends, students complete multiple test runs through parts of the development pipeline in the form of purposefully constrained and ordered 1-4 week game/app production assignments. They work with different cohort-mates and/or in a different role on each assignment, getting to know each other's strengths and interests and jointly figuring out the most effective team distributions and compositions for the capstone project.
+
+The tools lab sequence:
+GDP 611 / Platform Design Tools I
+In this course, students complete in-class hands-on exercises and weekly individual problem sets to develop technical and scripting proficiency with the Unreal Engine - the powerful, versatile, and popular professional-grade development environment used in the Game and App Design and Development MFA program's production studio classes. Topics covered include understanding and customizing the interface and project and editor settings, sourcing and importing assets, adding functionality through plug-in modules, packaging and distributing projects for specific platforms, creating adding and modifying game actors and static level objects, editing and creating C++ scripts to drive actor and world behavior, working with the Blueprints visual scripting system, and more. Assignments scale to accommodate students' prior familiarity with Unreal / other 3D engines, and their level of programming experience.
+
+And the platform literacy sequence:
+GDP 612 / Gaming Studies/Theory
+A critical play lab designed to develop broad familiarity with the history of digital games and apps, as well as the advanced mobile VR/AR platform literacy necessary to produce the most relevant and innovative work in the Game and App Design and Development MFA program's production studio classes. Students play, discuss, and analyze a large numer of influential games and apps, completing presentation and critical report assigments that develop their verbal and written communication skills and that focus their attention on platform-specific UX, design, and business choices and considerations.  
+
+"TWO-YEAR" SEEMS PRETTY SELF EXPLANATORY, BUT, JUST IN CASE?
+You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering class (i.e. your cohort). We will work hard with you to help you make the necessary timely progress, but there will be no exceptions to this requirement.
+
+The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
+
+We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
 
 
 
-The LIU gaMeFA is a full-time, two-year, 48-credit cohort-based studio graduate program focused on - you guessed it - game and app design and development.
+
+WHAT JOBS SPECIFICALLY MIGHT THIS PROGRAM PREPARE ME FOR?
+Depending on your background and where you focus your time and efforts while in the program, it can prepare you for a position as a game level / narrative designer, a systems / mechanics designer, a UX / interaction designer, a project manager, and/or a producer. You could also leave prepared to be a game programmer - if you come into the program with a strong computer science background and/or substantial prior professional programming experience in another field.
+
+WHAT JOBS WOULD IT DEFINITELY *NOT* PREPARE ME FOR?
+You will be competitive for entry level design, production, and/or programming jobs when you graduate, but you will not yet be ready to be a design lead, creative director, or similar.
+
+The program also does not try to and will not prepare you to be a 3D modeler, animator, rigger, texture artist, 2D or concept artist, any kind of music or sound effect composer or engineer, or a graphic designer. If you are interested in any of these careers, take a look at the other programs and courses in our Media Arts department.
 
 
-The LIU Game and App Design and Development MFA (LIU gaMeFA for short) is a full-time, two-year 48-credit cohort-based studio graduate program that will prepare you for a meaningful job in mobile VR / AR game or app development.
 
+
+
+
+
+WHAT EXACTLY DOES IT MEAN THAT THE PROGRAM IS "FULL-TIME" AND HOW DOES "48-CREDIT" TRANSLATE TO WORKLOAD?
+Each credit is equivalent to one hour of class time per week, for a semester's worth of weeks. Students take 12 credits worth of classes each semester - the main 6 credit production studio, the 3 credit platform tools lab, and the 3 credit platform literacy seminar. Over four semesters, this multiplies out to 12x4 = 48 credits.
+
+Though scheduled class time is therfore limited to about 12 hours a week, all classes take place during weekday daytime hours, and an additional 6 hour weekday daytime block is set aside for team-based project work. Students will also need to devote 15-20+ additional hours a week to homework to get full value out of the curriculum and ensure they are employable upon graduation. 
+
+Because of this, and because taking full advantage of the vital extracurricular educational and networking opportunities that studying in New York provides also means making time every week to prepare for and attend events, meetups, festivals, and/or exhibits, we discourage you in the strongest terms from working full-time or undertaking other comparable non-academic time commitments while enrolled in the program.
+
+We appreciate that working full-time may feel like the only or most practical way to eat and pay rent while studying, but, put simply, you will not have sufficient study time to get your tuition money's worth if you do so. You will be better off in the long run, financially and professionally, if you restrict yourself to working part-time and take out more in loans to cover the difference. 
+
+For our part, we will help you look for and apply for additional sources of funding, and will happily share all our insider experience with making ends meet in New York on a tight budget.
+
+
+BONUS QUESTION FOR THE TECHNICALLY INCLINED:
+
+WHY UNREAL ENGINE AND NOT UNITY?
+Unity may be more popular, but because Unreal is a more powerful engine with a higher barrier to entry, there are as many or more Unreal jobs per Unreal developer as Unity jobs per Unity developer, and Unreal competence connotes 'professional' more strongly than Unity competence. Also, Unreal gives all users free access to its source code - an invaluable feature for those interested in delving deeper. Finally, Unreal uses C++, a more marketable language in the world at large than Unity's C#.
+
+BONUS QUESTIONS FOR THOSE WHO AREN'T SURE WHETHER THE PROGRAM'S FOCUS IS COMPATIBLE WITH THEIR INTERESTS:
 
 I AM PRIMARILY/ONLY INTERESTED IN WORKING IN "AAA"/CONSOLE GAME DEVELOPMENT. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
-
 If you have done your research and are sure that's what you want, no. 
 
 Make sure you have done that research, though. Use resources like Gamasutra.com and Reddit AMAs to learn as much as you can about the day to day realities of working in AAA. One thing you will likely discover is that almost none of even the senior positions at companies like Naughty Dog, Rockstar, or Blizzard afford the kind of broad creative control over the nature and shape of large projects that often attracts people to the >idea< of working in AAA. 
@@ -21,15 +98,13 @@ Think about whether you would prefer to be a small cog in a huge wheel (AAA), or
 * Obviously there are breakout exceptions, but the reality is that these are the experiences of the vast majority of the talented, skilled, hard-working and ambitious people on both sides of the fence. Throwing caution to the wind and making your choice planning and intending to be one of those superstar exceptions is very sexy, of course - but before you do that, make sure you understand with visceral power and clarity that the reason such a choice is so sexy is that it is extremely dangerous and foolish; i.e. the risk of emotionally and financially catastrophic disappointment is exceptionally high.
 
 I AM PRIMARILY/ONLY INTERESTED IN BEING AN INDIE/DIY GAME DEVELOPER, AND/OR WORKING AT THE INTERSECTION OF GAMES AND ART. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
-
 As with AAA, no.
 
-If you want to be an indie/diy developer, don't go to grad school - at least not unless you can get a (near-)full scholarship. Instead, simply start making games using the many great free tools aggregated at sites like PixelProspector.com, use game jams like Ludum Dare and the Global Game Jam for networking, constraints, structure, and accountability, enter design competitions like the ones regularly administered by the Games For Change festival, apply to incubators, attend game-related events in person if you live in a city with a game scene (in NY, check out Babycastles and the NYU Game Center, to name just two), put your games up for sale on sites like itch.io to teach yourself about marketing, follow your favorite game devs on Twitter, submit your games to festivals like IndieCade and IGF and try to attend them if you can, and most of all, make sure to have a day job. If you insist on going anyway, consider the NYU Game Center.
+If you want to be an indie/DIY developer, don't go to grad school - at least not unless you can get a (near-)full scholarship. Instead, simply start making games using the many great free tools aggregated at sites like PixelProspector.com, use game jams like Ludum Dare and the Global Game Jam for networking, constraints, structure, and accountability, enter design competitions like the ones regularly administered by the Games For Change festival, apply to incubators, attend game-related events in person if you live in a city with a game scene (in NY, check out Babycastles and the NYU Game Center, to name just two), put your games up for sale on sites like itch.io to teach yourself about marketing, follow your favorite game devs on Twitter, submit your games to festivals like IndieCade and IGF and try to attend them if you can, and most of all, make sure to have a day job. If you insist on going anyway, consider the NYU Game Center.
 
-If you want to work at the intersection of games and art - perhaps creating large-scale interactive museum installations, or leading workshops at organizations like EYEBEAM - grad school makes more sense, as it can give you the cultural capital and connections that are so valuable in that space. But in our program, all of your studio projects would be team-based, and there's at least as much focus on technical as on conceptual work. Unless that appeals to you, and/or you are specifically strongly interested in the mobile VR / AR space, look instead at programs like UCLA,  Parsons, or, again, NYU.
+If you want to work at the intersection of games and art - perhaps creating large-scale interactive museum installations, or leading workshops at organizations like EYEBEAM - grad school makes more sense, as it can give you the cultural capital and connections that are so valuable in that space. But in our program, all of your studio projects would be team-based, and there's at least as much focus on technical as on conceptual skills. Unless that appeals to you, and/or you are specifically strongly interested in the mobile VR / AR space, look instead at programs like UCLA,  Parsons, or, again, NYU.
 
 I AM INTERESTED IN TEACHING AT THE COLLEGE / GRAD SCHOOL LEVEL. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
-
 It might be. Our program awards the Master of Fine Arts degree. The MFA is what is known as a terminal degree - the most advanced degree of its kind - and as such, it will give you the credential you need to teach game design and/or development at the undergraduate or graduate level.
 
 However, the LIU gaMeFA program curriculum does not focus on developing teaching skills, and opportunities to practice teaching during your time here would be limited at best, as there is currently no undergraduate game design program at LIU Brooklyn.
@@ -39,70 +114,6 @@ Also, note that no MFA degree, regardless of where you got it, would prepare or 
 
 
 
-OK, SO THEN....WHO IS THIS PROGRAM A GOOD FIT FOR, ANYWAY?
 
 
 
-
-What do you mean by "design"?
-In the context of the program, "design" 
-
-What do you mean by "development"?
-
-Does the program have a specific focus?
-
-Given this focus, who is the program most appropriate for?
-
-I am interested in "AAA"/console game development. Is this program a good fit for me? 
-
-What does it mean exactly that the program is "cohort-based"? 
-
-What do you mean exactly when you say it's a "full-time" program?
-
-What does it mean exactly that it's a "two-year" program?
-
-When you say "48-credit" what does that mean? How do credits translate to workload?
-
-Does the program have a focus?
-
-
-More specifically, the program focuses on game and app design and development for mobile VR and AR platforms like the Samsung VR and the upcoming Magic Leap, using the popular and powerful Unreal Engine as the central content creation tool. All projects will be expected to use Unreal and target these platforms.
-
-Due to this tight and narrow focus, this program is NOT the best choice for students most interested in traditional "AAA" console development (if this is your main interest, consider programs like DigiPen, Guildhall at SMU, SCAD, and USC), or in creating experimental "indie" games and/or working at the intersections of games and art (for this focus, consider UCLA, Parsons, and the NYU Game Center). 
-
-The program aims to prepare students for careers as mechanics / systems designers, UX / interaction designers, game level designers, project managers, producers, or - for those coming into the program with substantial programming experience - mobile VR/AR game/app programmers. We strongly encourage you to research what those roles actually entail on a day-to-day basis to see which ones, if any, strongly appeal to you. Reach out to us with any questions you might have about them - and make sure to do this research before enrolling! You really don't want to spend two years of hard work preparing for a job you don't actually want to do.
-
-The program does NOT aim to prepare students for work in traditional console / PC "AAA" game development, and is also not the best choice for those looking to 
-
-The LIU Game and App Design and Development MFA program 
-
-The LIU Game and App Design and Development MFA program (LIU gaMeFA for short) is a full-time, two-year, 48-credit cohort-based studio graduate program More specifically, the program focuses on game and app design and development for mobile VR and AR platforms like Samsung Gear VR and the forthcoming Magic Leap, using the popular and powerful Unreal Engine. 
-
-Let's go through what that means in more detail, piece by piece.
-
-
-
-"COHORT-BASED"
-Everyone coming into the program in each year takes the same classes together for the full two year duration of the program *. This set curriculum consists of three four-semester course sequences:
-
-- A sequence focused on developing technical expertise with Unreal Engine and other industry-standard content production/editing/management tools, and on developing a constructive and respected online presence in those tools' online communities.
-
-- A sequence focused on developing broad game and app literacy, and on analyzing and understanding the design and business considerations - UX best practices, monetization models, and more - specific to mobile VR and AR platforms.
-
-* with a small number of exceptions for electives after the first semester
-
-"FULL-TIME"
-Though scheduled class time is limited to about 12 hours a week, all classes take place during weekday daytime hours, and an additional 6 hour weekday daytime block is set aside for team-based project work. Students will also need to devote 15-20+ additional hours a week to homework to get full value out of the curriculum and ensure they are employable upon graduation. 
-
-Because of this, and because taking full advantage of the vital extracurricular educational and networking opportunities that studying in New York provides also means making time every week to prepare for and attend events, meetups, festivals, and/or exhibits, we discourage you in the strongest terms from working full-time or undertaking other comparable non-academic time commitments while enrolled in the program.
-
-We appreciate that working full-time may feel like the only or most practical way to eat and pay rent while studying, but, put simply, you will not have sufficient study time to get your tuition money's worth if you do so. You will be better off in the long run, financially and professionally, if you restrict yourself to working part-time and take out more in loans to cover the difference. 
-
-For our part, we will help you look for and apply for additional sources of funding, and will happily share all our insider experience with making ends meet in New York on a tight budget. 
-
-"TWO-YEAR"
-You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering cohort. We will do our utmost to help you make the necessary timely progress, but there will be no exceptions to this requirement.
-
-The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
-
-We will help you structure that time so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
