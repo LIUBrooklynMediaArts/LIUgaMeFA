@@ -1,5 +1,8 @@
 The LIU Game and App Design and Development MFA (LIU gaMeFA for short) is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in game and app design and development.
 
+WHAT DO YOU MEAN, "GOOD JOBS"?
+Full-time jobs in the game/app industry, with room for growth, solid pay, and opportunities to have your voice heard and have meaningful input into creative and business decisions.
+
 DOES THE PROGRAM HAVE A SPECIFIC FOCUS?
 Yes, and it is deliberately narrow. All projects you work on in the program will use the Unreal Engine and target mobile VR / AR platforms like the Samsung Gear VR and the upcoming Magic Leap.
 
@@ -7,15 +10,19 @@ WHY IS THE FOCUS SO NARROW?
 To maximize how much you can benefit from your fellow students' experience as you progress through the program together, and to make sure that your skills are deep and well-defined enough to make you employable upon graduation.
 
 WHY IS MOBILE VR / AR THE FOCUS RATHER THAN SOMETHING ELSE?
-Because this is where a great number of the best jobs and most exciting creative opportunities in game and app development will be over the coming decade+, both in New York specifically and nation- and world-wide. For example, NYC has just this year committed $6 million to helping open a VR / AR coworking and event and startup incubator lab space.
+Because this is where a great number of the best jobs and most exciting creative opportunities in game and app development will be over the coming decade+, both in New York specifically and nation- and world-wide. 
+
+For example, NYC has just this year committed $6 million to helping open a VR / AR coworking and event and startup incubator lab space.
+
+[ add more examples / (provide links)]
 
 I WANT TO HAVE THE FREEDOM TO MAKE GAMES/APPS FOR OTHER PLATFORMS / USE OTHER DEVELOPMENT TOOLS. WHAT SHOULD I DO?
-You should consider enrolling in one of the many other excellent graduate game design programs available around the country and the world. Our program's narrow and rigid focus would probably frustrate, depress, and demotivate you!
+You should consider enrolling in one of the many other excellent graduate game design programs available around the country and the world. Our program's tight and inflexible focus will probably depress, frustrate, and demotivate you!
 
-See the questions about AAA/console development, indie development, and teaching below for more details and some suggestions on how to go about pursuing those other interests.
+If you're not sure, take a look at the bonus questions about AAA/console development, indie development, and teaching below. There's some more discussion and some suggestions on how to go about researching and pursuing those interests.
 
 BUT THIS IS A MASTER OF FINE ARTS PROGRAM! WHAT ABOUT FREEDOM OF EXPRESSION?
-Freedom of expression is worth little if you don't have the technical skill to express what you want, or the money to feed yourself and your family while you do it. This program will give you a solid, flexible foundation on which to build an original creative practice while making a stable living.
+Freedom of expression is worth little if you don't have the technical skill to express what you want, or the money to feed yourself and your family while you do it. The narrow focus of this program is purposefully designed to give you a solid, flexible, practical foundation on which to build an original creative practice while making a stable living.
 
 OK, SO, WHAT IS THE CURRICULUM LIKE, THEN? AND WHAT DOES IT MEAN THAT THE PROGRAM IS "COHORT-BASED"?
 Everyone coming into the program each year - each cohort, comprised of somewhere between 12 and 20 students - takes the same classes together for the full two year duration of the program*. This set curriculum consists of three main course sequences:
@@ -28,7 +35,7 @@ Everyone coming into the program each year - each cohort, comprised of somewhere
 
 *with a very limited number of exceptions for electives in the second year.
 
-CAN YOU DESCRIBE THE CLASSES IN SOME MORE DETAIL?
+CAN YOU DESCRIBE THE COURSEWORK IN SOME MORE DETAIL?
 Gladly. Here are the course descriptions for the first class in each of the three sequences. Students take these in the fall semester of their first year in the program.
 
 The main production sequence:
@@ -50,16 +57,21 @@ The fall semester runs from September to December, and the spring semester from 
 
 We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
 
+SPEAKING OF PAID, WHAT JOBS SPECIFICALLY MIGHT THIS PROGRAM PREPARE ME FOR?
+Depending on your background and where you focus your effort while in the program, it can prepare you for a position as a game level / narrative designer, a systems / mechanics designer, a UX / interaction designer, a project manager, and/or a producer. You could also leave prepared to be a game programmer - if you come into the program with a strong computer science background and/or substantial prior professional programming experience in another field.
 
-
-
-WHAT JOBS SPECIFICALLY MIGHT THIS PROGRAM PREPARE ME FOR?
-Depending on your background and where you focus your time and efforts while in the program, it can prepare you for a position as a game level / narrative designer, a systems / mechanics designer, a UX / interaction designer, a project manager, and/or a producer. You could also leave prepared to be a game programmer - if you come into the program with a strong computer science background and/or substantial prior professional programming experience in another field.
+We encourage you to research what exactly those roles entail, and to reach out to us if you have any questions. During the application process, we may ask you to demonstrate your understanding of the specifics of some or all of these roles. We need to work together to make sure that if you enroll, you will be preparing for a job you actually want to do!
 
 WHAT JOBS WOULD IT DEFINITELY *NOT* PREPARE ME FOR?
 You will be competitive for entry level design, production, and/or programming jobs when you graduate, but you will not yet be ready to be a design lead, creative director, or similar.
 
-The program also does not try to and will not prepare you to be a 3D modeler, animator, rigger, texture artist, 2D or concept artist, any kind of music or sound effect composer or engineer, or a graphic designer. If you are interested in any of these careers, take a look at the other programs and courses in our Media Arts department.
+The program also does not try to and will definitely not prepare you to be a 3D modeler, animator, rigger, texture artist, 2D or concept artist, any kind of music or sound effect composer or engineer, or a graphic designer. 
+
+[improve transition / break out into a separate question]
+
+You will learn enough about how these assets are created and integrated to facilitate smooth collaboration, but you will not spend significant time making models, creating textures and sound effects, etc. Instead, all projects will use a large library of prefabricated art assets, so you can focus on level and/or systems design, and on interaction scripting. 
+
+If you are interested in any of these careers, take a look at the other programs and courses in our Media Arts department.
 
 
 
