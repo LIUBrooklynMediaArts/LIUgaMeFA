@@ -1,0 +1,16 @@
+The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program in the Media Arts department of LIU Brooklyn, situated in the heart of the greatest city in the world. To enroll, you must hold an undergraduate degree (BA / BS / BFA, or equivalent). 
+
+Additional application requirements are outlined below, but first, we encourage you to make sure you've read the [link to program details post]. It answers many of the questions you may not even know you had about the program structure, its focus (mobile VR & AR), the expected degree of commitment, the specific jobs that the program is designed to prepare you for, and more. This is particularly important since the program's unusually narrow focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available. 
+
+It would also be a great idea to research the world you would be entering by enrolling in and completing the program, for example by exploring the exhibitor list of the VRDC (Virtual Reality Developers Conference), trying out as many VR / AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'll exclusively use to make your games and apps while in our program, attending some of the VR / AR Meetups that are likely available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News
+
+If you find yourself having more or follow-up questions, please reach out to me (the program director) at ilya DOT zarembsky AT gmail DOT com. I'll be glad to address your questions as best I can over email and/or Skype.
+
+When you are ready to apply, here's how: 
+
+* Navigate to the LIU Brooklyn Admissions department page at http://www.liu.edu/Brooklyn/Admissions
+* Scroll down until you see the Apply Now button and click it. This will take you to a generic application form page.
+* Select Graduate in the "I'll be entering as" dropdown
+* Select a Fall semester in the "I'll be starting my studies" dropdown. You must start the LIU Game and App Design and Development program in the fall - there is no spring or summer matriculation.
+* In the "Intended Major" dropdown, selected "Game/App Design & Devel MFA"
+* After filling out the rest of the form, enter "EXPLOREBK" in the Waiver Code field to waive the $50 application fee :)
