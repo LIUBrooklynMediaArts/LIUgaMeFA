@@ -9,13 +9,19 @@ Applying is as easy as 1-2-3:
 * Since the LIU gaMeFA is a graduate program, you'll need an undergraduate degree (BA/BS/BFA or equivalent) to enroll.
 
 IS THERE ANYTHING I SHOULD DO BEFORE I APPLY?
-Before you apply, make sure to read the program details post: [LINK TO PROGRAM DETAILS POST]. It explains the program's structure and focus (mobile VR & AR), offers details about the curriculum, specifies what jobs the program will and will not prepare you for, and more. The program's unusually tight focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available.
+Read the program details post: [LINK TO PROGRAM DETAILS POST]. It explains the program's structure and focus (mobile VR/AR), offers details about the curriculum, specifies what jobs the program will and will not prepare you for, and more. 
 
-We also strongly encourage you to do more research about the world you would be entering by enrolling in and completing the program. Ways to do this include exploring the exhibitor list of VR/AR conferences like the VRDC (Virtual Reality Developers Conference), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively be using in the program, attending some of the VR/AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
+Also, download and start experimenting with the (free) Unreal Engine, which you'd be using it exclusively in the program. Don't worry if it feels overwhelming or intimidating right now. The program will take you from beginner to professional-level user.
+
+ANYTHING ELSE YOU WOULD SUGGEST?
+Do more research about the specific segment of the industry you would be entering by enrolling in the program. Ways to do this include exploring the exhibitor list of VR/AR conferences like the VRDC (Virtual Reality Developers Conference), attending some of the VR/AR meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
+
+I'M ON THE FENCE ABOUT APPLYING. WHAT SHOULD I DO?
+It's free and quick to fill out the basic application, and you can use the Skype interview to get a better sense of whether the program would be a good fit for you before investing time and energy into putting together the rest of the materials. We'll be glad to have a chance to meet you regardless of whether you decide to follow through on the rest of the application. Go ahead and apply :) 
 
 CAN YOU HELP ME FILL OUT THE BASIC ONLINE APPLICATION FORM?
 * If you are not able to access the application form directly using http://bit.ly/2rCfpc7, go to the LIU Brooklyn Admissions page at http://www.liu.edu/Brooklyn/Admissions and click the Apply Now button.
-* Selected Brooklyn in the "Interested Campus" dropdown, if not already selected.
+* Select Brooklyn in the "Interested Campus" dropdown, if not already selected.
 * Select Graduate in the "I'll be entering as" dropdown.
 * Select a Fall semester in the "I'll be starting my studies" dropdown. You must start the LIU Game and App Design and Development program in the fall - there is no spring or summer matriculation.
 * In the "Intended Major" dropdown, selected "Game/App Design & Devel MFA".
@@ -24,12 +30,14 @@ CAN YOU HELP ME FILL OUT THE BASIC ONLINE APPLICATION FORM?
 * Make sure to email us using the Send Email button on this page to schedule the required Skype interview!
 
 WHOM SHOULD I ASK FOR RECOMMENDATIONS?
-If you are just finishing college or have recently graduated, good people to ask might be professors, coaches, your supervisor(s) at any summer-long internships you may have done, teaching assistants, or perhaps classmates who have collaborated with you on a major project. We would much rather see a recommendation from someone who knows you and your work well and can speak to your specific qualities than a more generic letter from a "name".
+If you are still in college or have only recently graduated, good people to ask might be professors, coaches, internship supervisors, teaching assistants, or perhaps classmates who have collaborated with you on a major project. 
 
-If you have been out of college for a while, recommendations from your work managers/bosses or colleagues are good, particularly if you have worked with them on a collaborative creative project. A close collaborator from a major personal/hobby creative project can be a good choice, also.
+Otherwise, recommendations from your bosses or colleagues are good, particularly if you have worked with them on a creative project team. A collaborator from a large personal creative project can be a good choice as well.
+
+In both cases, we would much rather see a recommendation from someone who knows you personally and can speak in specific detail about your learning, project management, and/or collaboration skills than a more generic letter from a "name".
 
 WHAT SHOULD MY PERSONAL STATEMENT ADDRESS / BE ABOUT? WHAT FORMAT / MEDIUM SHOULD IT USE?
 The personal statement should be a single file, 100mb or smaller. The format and contents of the file are up to you.
 
 WHAT SHOULD MY CREATIVE PORTFOLIO CONSIST OF?
-It depends on your background and interests. We'll figure it out during the interview, after which you'll have a week or two to put it together. Some possibilities might be a small map for an existing 3d game, a branching dialog scenario, a document or spreadsheet laying out a production plan and schedule, draft wireframes for an original app concept, or code implementing a specific gameplay system or mechanic.
+It depends on your background and interests. We'll figure it out during the interview, after which you'll have a week or two to put it together. Sample possible elements include a small map for an existing 3d game, a branching dialog scene, a document or spreadsheet laying out a production plan and schedule, draft wireframes for an original app concept, or code implementing a specific gameplay system or mechanic.
