@@ -1,16 +1,33 @@
-The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program in the Media Arts department of LIU Brooklyn, situated in the heart of the greatest city in the world. To enroll, you must hold an undergraduate degree (BA / BS / BFA, or equivalent). 
+APPLYING TO THE PROGRAM
 
-Additional application requirements are outlined below, but first, we encourage you to make sure you've read the [link to program details post]. It answers many of the questions you may not even know you had about the program structure, its focus (mobile VR & AR), the expected degree of commitment, the specific jobs that the program is designed to prepare you for, and more. This is particularly important since the program's unusually narrow focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available. 
+Note: applications are now open for the Fall 2017 cohort! - read on for more details and information on how to apply.
 
-It would also be a great idea to research the world you would be entering by enrolling in and completing the program, for example by exploring the exhibitor list of the VRDC (Virtual Reality Developers Conference), trying out as many VR / AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'll exclusively use to make your games and apps while in our program, attending some of the VR / AR Meetups that are likely available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News
+The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program in the Media Arts department of LIU Brooklyn, situated in the heart of the greatest city in the world.
 
-If you find yourself having more or follow-up questions, please reach out to me (the program director) at ilya DOT zarembsky AT gmail DOT com. I'll be glad to address your questions as best I can over email and/or Skype.
+Before applying, we encourage your to read the program details post here: [LINK TO PROGRAM DETAILS POST]. It clarifies many of the terms in the above summary and answers many of the questions you may not even know you had about the program structure, its focus (mobile VR & AR), the expected degree of commitment, the specific jobs that the program is designed to prepare you for, and more. 
 
-When you are ready to apply, here's how: 
+This is particularly important since the program's unusually tight focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available.
 
-* Navigate to the LIU Brooklyn Admissions department page at http://www.liu.edu/Brooklyn/Admissions
-* Scroll down until you see the Apply Now button and click it. This will take you to a generic application form page.
-* Select Graduate in the "I'll be entering as" dropdown
+It would also be a great idea to research the world you would be entering by enrolling in and completing the program, for example by exploring the exhibitor list of the VRDC (Virtual Reality Developers Conference), trying out as many VR / AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively use to make your games and apps while in our program, attending some of the VR / AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
+
+If you have any additional questions, please reach out to me (the program director) at ilya DOT zarembsky AT gmail DOT com. I'll be glad to hear from you.
+
+WHEN YOU ARE READY TO APPLY, HERE'S HOW:
+* Find and click the Apply Now button the LIU Brooklyn Admissions department page (http://www.liu.edu/Brooklyn/Admissions). You'll be redirected to a page with a quick initial application form.
+* Fill out and submit the application form. Use waiver code EXPLOREBK to waive the application fee :) See below for some more details on how to fill out the form.
+* Email us at ilya DOT zarembsky AT liu DOT edu to let us know that you have applied.
+
+After you email us, we will schedule a required Skype interview and specify what portfolio materials you'll need to submit in support of your application, based on your background and interests. 
+
+You will also need to submit some standard application materials in the form of your undergraduate transcripts, recommendations, and a personal statement.
+
+Applications are open now for Fall 2017. The sooner you apply, the better your chance of admission. We look forward to reviewing your appication, speaking with you, and working together to figure out whether the program will be a good fit for you. Good luck!
+
+---
+Application form details:
+* Select Graduate in the "I'll be entering as" dropdown.
 * Select a Fall semester in the "I'll be starting my studies" dropdown. You must start the LIU Game and App Design and Development program in the fall - there is no spring or summer matriculation.
-* In the "Intended Major" dropdown, selected "Game/App Design & Devel MFA"
-* After filling out the rest of the form, enter "EXPLOREBK" in the Waiver Code field to waive the $50 application fee :)
+* In the "Intended Major" dropdown, selected "Game/App Design & Devel MFA".
+* After filling out the rest of the form, enter "EXPLOREBK" in the Waiver Code field and click the Apply Code button to waive the application fee.
+* Click Submit. You should be redirected to a page that confirms successful submission and lets you know to expect a confirmation email at the address you provided.
+* Make sure to email us at ilya DOT zarembsky AT liu DOT edu to schedule the required Skype interview!
