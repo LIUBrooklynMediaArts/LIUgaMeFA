@@ -1,6 +1,22 @@
 APPLYING TO THE PROGRAM
 Applications are now open for Fall 2017!
 
+Applying is as easy as 1-2-3:
+1, Fill out a basic online application form.
+2, Email us using the Send Email button on this page to let us know you've applied and to schedule the required Skype interview.
+3, Provide us with your undergraduate transcript(s), two or more letters of recommendation, a personal statement, and a creative portfolio.
+
+Before you apply, make sure to read the program details post: [LINK TO PROGRAM DETAILS POST]. It explains the program's structure and focus (mobile VR & AR), offers details about the curriculum, specifies what jobs the program will and will not prepare you for, and more. The program's unusually tight focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available.
+
+We also strongly encourage you to do more research about the world you would be entering by enrolling in and completing the program. Ways to do this include exploring the exhibitor list of VR/AR conferences like the VRDC (Virtual Reality Developers Conference), trying out as many VR/AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively be using in our program, attending some of the VR / AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
+
+
+
+
+
+APPLYING TO THE PROGRAM
+Applications are now open for Fall 2017!
+
 To apply, you'll need to follow these steps:
 * fill out a basic online application form
 * email us at ilya DOT zarembsky AT liu DOT edu to let us know you've applied and to schedule the required Skype interview
