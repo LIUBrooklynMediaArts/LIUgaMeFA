@@ -2,70 +2,43 @@ APPLYING TO THE PROGRAM
 Applications are now open for Fall 2017!
 
 Applying is as easy as 1-2-3:
-1, Fill out a basic online application form.
-2, Email us using the Send Email button on this page to let us know you've applied and to schedule the required Skype interview.
-3, Provide us with your undergraduate transcript(s), two or more letters of recommendation, a personal statement, and a creative portfolio.
+1, Fill out this basic online application form: http://bit.ly/2rCfpc7. Use code EXPLOREBK to waive the application fee :) 
+2, Contact us using the Send Email button on this page to let us know you've applied and to schedule the required Skype interview.
+3, Provide us with your undergraduate transcript(s)*, two or more letters of recommendation, a personal statement, and a creative portfolio.
 
+* Since the LIU gaMeFA is a graduate program, you'll need an undergraduate degree (BA/BS/BFA or equivalent) to enroll.
+
+IS THERE ANYTHING I SHOULD DO BEFORE I APPLY?
 Before you apply, make sure to read the program details post: [LINK TO PROGRAM DETAILS POST]. It explains the program's structure and focus (mobile VR & AR), offers details about the curriculum, specifies what jobs the program will and will not prepare you for, and more. The program's unusually tight focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available.
 
-We also strongly encourage you to do more research about the world you would be entering by enrolling in and completing the program. Ways to do this include exploring the exhibitor list of VR/AR conferences like the VRDC (Virtual Reality Developers Conference), trying out as many VR/AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively be using in our program, attending some of the VR / AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
+We also strongly encourage you to do more research about the world you would be entering by enrolling in and completing the program. Ways to do this include exploring the exhibitor list of VR/AR conferences like the VRDC (Virtual Reality Developers Conference), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively be using in the program, attending some of the VR/AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
 
-
-
-
-
-APPLYING TO THE PROGRAM
-Applications are now open for Fall 2017!
-
-To apply, you'll need to follow these steps:
-* fill out a basic online application form
-* email us at ilya DOT zarembsky AT liu DOT edu to let us know you've applied and to schedule the required Skype interview
-* provide us with your undergraduate transcript(s), two or more letters of recommendation, a personal statement, and a creative portfolio (the exact contents of which will depend on your background and interests - we will specify what we would like to see after the interview)
-
-Before you apply, make sure to read the program details post: [LINK TO PROGRAM DETAILS POST]. It explains the programs' structure and focus (mobile VR & AR), offers details about the curriculum, specifies what jobs the program will and will not prepare you for, and more. If you still have questions after reading, please don't hesitate to get in touch by messaging this page or clicking the Send Email button. We will be glad to hear from you!
-
-To apply, you'll need to
-* fill out a basic online application form
-
-To apply, you'll need to submit the following documents:
-* your undergraduate transcripts (the LIU gaMeFA is a graduate program, and as such you will need a BA/BS/BFA or equivalent to matriculate)
-* two or more recommendations
-* a personal statement
-* a creative portfolio, the exact contents of which will depend on your background and interests - we will specify what we would like to see after you've submitted the initial application
-* 
-
-When you are ready to apply,
-* make sure you'll have an undergraduate degree (BA/BS/BFA or equivalent) or are in the final year of your undergraduate studies. The LIU gaMeFA is a graduate program, and as such you will need a college degree to matriculate
-* 
-
-- read on for more details and information on how to apply.
-
-The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program in the Media Arts department of LIU Brooklyn, situated in the heart of the greatest city in the world.
-
-Before applying, we encourage your to read the program details post here: [LINK TO PROGRAM DETAILS POST]. It clarifies many of the terms in the above summary and answers many of the questions you may not even know you had about the program structure, its focus (mobile VR & AR), the expected degree of commitment, the specific jobs that the program is designed to prepare you for, and more. 
-
-This is particularly important since the program's unusually tight focus means it will almost certainly not be the right fit for everyone interested in game or app design - on the other hand, you may find that it feels like a much better fit than the many more loosely structured programs that are available.
-
-It would also be a great idea to research the world you would be entering by enrolling in and completing the program, for example by exploring the exhibitor list of the VRDC (Virtual Reality Developers Conference), trying out as many VR / AR experiences as you can get your hands on (particularly mobile ones - Google Cardboard is an inexpensive option), downloading and starting to explore the free and powerful Unreal Engine that you'd exclusively use to make your games and apps while in our program, attending some of the VR / AR Meetups that may be available in your area, and following new industry developments through sites like UploadVR and Augmented.Reality.News.
-
-If you have any additional questions, please reach out to me (the program director) at ilya DOT zarembsky AT gmail DOT com. I'll be glad to hear from you.
-
-WHEN YOU ARE READY TO APPLY, HERE'S HOW:
-* Find and click the Apply Now button the LIU Brooklyn Admissions department page (http://www.liu.edu/Brooklyn/Admissions). You'll be redirected to a page with a quick initial application form.
-* Fill out and submit the application form. Use waiver code EXPLOREBK to waive the application fee :) See below for some more details on how to fill out the form.
-* Email us at ilya DOT zarembsky AT liu DOT edu to let us know that you have applied.
-
-After you email us, we will schedule a required Skype interview and specify what portfolio materials you'll need to submit in support of your application, based on your background and interests. 
-
-You will also need to submit some standard application materials in the form of your undergraduate transcripts, recommendations, and a personal statement.
-
-Applications are open now for Fall 2017. The sooner you apply, the better your chance of admission. We look forward to reviewing your appication, speaking with you, and working together to figure out whether the program will be a good fit for you. Good luck!
-
----
-Application form details:
+CAN YOU HELP ME FILL OUT THE BASIC ONLINE APPLICATION FORM?
+* If you are not able to access the application form directly using http://bit.ly/2rCfpc7, go to the LIU Brooklyn Admissions page at http://www.liu.edu/Brooklyn/Admissions and click the Apply Now button.
+* Selected Brooklyn in the "Interested Campus" dropdown, if not already selected.
 * Select Graduate in the "I'll be entering as" dropdown.
 * Select a Fall semester in the "I'll be starting my studies" dropdown. You must start the LIU Game and App Design and Development program in the fall - there is no spring or summer matriculation.
 * In the "Intended Major" dropdown, selected "Game/App Design & Devel MFA".
-* After filling out the rest of the form, enter "EXPLOREBK" in the Waiver Code field and click the Apply Code button to waive the application fee.
+* After filling out the rest of the form, enter EXPLOREBK in the Waiver Code field and click the Apply Code button to waive the application fee.
 * Click Submit. You should be redirected to a page that confirms successful submission and lets you know to expect a confirmation email at the address you provided.
+* Make sure to email us using the Send Email button on this page to schedule the required Skype interview!
+
+WHOM SHOULD I ASK FOR RECOMMENDATIONS?
+If you are just finishing college or have recently graduated, good people to ask might be professors, coaches, your supervisor(s) at any summer-long internships you may have done, teaching assistants, or perhaps classmates who have collaborated with you on a major project. We would much rather see a recommendation from someone who knows you and your work well and can speak to your specific qualities than a more generic letter from a "name".
+
+If you have been out of college for a while, recommendations from your work managers/bosses or colleagues are good, particularly if you have worked with them on a collaborative creative project. A close collaborator from a major personal/hobby creative project can be a good choice, also.
+
+WHAT SHOULD MY PERSONAL STATEMENT ADDRESS / BE ABOUT? WHAT FORMAT / MEDIUM SHOULD IT USE?
+The personal statement should be a single file, 100mb or smaller. The format and contents of the file are up to you.
+
+WHAT SHOULD MY CREATIVE PORTFOLIO CONSIST OF?
+It depends on your background and interests. We'll figure it out during the interview, after which you'll have a week or two to put it together. Some possibilities might be a small map for an existing 3d game, a branching dialog scenario, a document or spreadsheet laying out a production plan and schedule, draft wireframes for an original app concept, or code implementing a specific gameplay system or mechanic.
+
+
+
+
+
+
+
+
 * Make sure to email us at ilya DOT zarembsky AT liu DOT edu to schedule the required Skype interview!
