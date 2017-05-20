@@ -33,12 +33,3 @@ The personal statement should be a single file, 100mb or smaller. The format and
 
 WHAT SHOULD MY CREATIVE PORTFOLIO CONSIST OF?
 It depends on your background and interests. We'll figure it out during the interview, after which you'll have a week or two to put it together. Some possibilities might be a small map for an existing 3d game, a branching dialog scenario, a document or spreadsheet laying out a production plan and schedule, draft wireframes for an original app concept, or code implementing a specific gameplay system or mechanic.
-
-
-
-
-
-
-
-
-* Make sure to email us at ilya DOT zarembsky AT liu DOT edu to schedule the required Skype interview!
