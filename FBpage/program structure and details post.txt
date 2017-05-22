@@ -1,10 +1,96 @@
-The LIU Game and App Design and Development MFA (LIU gaMeFA for short) is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in game and app design and development.
+PROGRAM OVERVIEW
+The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in, specifically and exclusively, mobile VR / AR game and app design and development. See below for some discussion and suggestions if your specific game/app interests lie elsewhere, such as console development.
 
-WHAT DO YOU MEAN, "GOOD JOBS"?
-Full-time jobs in the game/app industry, with room for growth, solid pay, and opportunities to have your voice heard and have meaningful input into creative and business decisions.
+
+
+HOW MUCH DOES THE PROGRAM COST?
+At the 2017-2018 rate of $1,201 per graduate credit, the total tuition for the two-year 48-credit program would be $57,648. The actual cost is likely to be somewhat higher, as per-credit rates tend to rise from year to year (for example, the rate was $1,155 in 2015-2016), and the second year's 24 credits would need to be paid for at this updated rate.
+
+A health insurance fee (required for students who don't have their own health insurance) that last stood at a bit under $2,400 a year and a university facilities fee that currently stands at $920 a semester together add a further ~$8,500.
+
+Accounting for the likely cost increases in the second year puts the total at ~$70,000, excluding room, board, equipment/supplies, and living expenses.
+
+More information, including the latest rates, is available here: http://www.liu.edu/Brooklyn/Enrollment-Services/Tuition
+
+WOW, THAT'S REALLY EXPENSIVE. WOULD I BE BETTER OFF JUST TEACHING MYSELF USING FREE/CHEAP ONLINE TUTORIALS, DOCUMENTATION, AND FORUMS?
+Very possibly. You should seriously consider this route if the cost concerns you or would put you/your family into significant debt.
+
+IS FINANCIAL AID AVAILABLE?
+Yes, both in the forms of loans (which have to be repaid), and grants and scholarships (which don't, but tend to be smaller and/or harder to come by than loans). To find out more about what kinds and amounts of aid you may be eligible for, and how to apply, look here: http://www.liu.edu/Brooklyn/Enrollment-Services/Financial-Aid
+
+HOW MUCH DOES IT COST TO RENT HOUSING IN NEW YORK?
+A private room in a shared apartment can be had from $650-$700 + utilities (likely to run about $50-$75 extra), although finding a good situation at that price will require some luck and effort, and more rooms are in the $800-$1500 range. If you prefer or need to live alone, expect to pay from $1200-$2500 a month for a studio (single room) apartment.
+
+Check websites like Craigslist.org and Roomi to get a better sense of what's available. Lively and safe Brooklyn neighborhoods that are convenient for commuting to the LIU Brooklyn campus by train and/or bus include Bedford Stuyvesant, Crown Heights, Park Slope, Kensington, and Bushwick.
+
+It can be challening to convince New York landlords to rent to you when you are a student, particulary if you are an international student and/or have no American credit history. You will likely need a guarantor - someone whose annual income is equivalent to a large (40-80+) multiple of your monthly rent, and who is willing to legally commit to paying your rent if you are not able to.
+
+WHAT ABOUT OTHER LIVING EXPENSES (FOOD, TRANSPORTATION,...)?
+You'll want an unlimited MetroCard to take full advantage of New York's excellent 24 hour multimodal public transit system; this will set you back ~$120/month, but unless you live within walking distance from campus or have a bike that you aren't afraid to take on city streets, it will be money well spent.
+
+
+
+
+
+
+
+
+
+
+HOW LONG DOES THE PROGRAM TAKE?
+Two (academic) years. You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering class (i.e. your cohort). We will work hard with you to help you make the necessary timely progress, but there will be no exceptions to this requirement.
+
+The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
+
+We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
+
+
+
+
+What about taking cheaper classes through an organization like Playcrafting?
+$2k for a single class -> $8k/semester -> $16k/year
+BUT they don't have more advanced classes
+
+ and/or take much cheaper classes through an organization like Playcrafting? 
+
+How does the program work?
+
+How much does the program cost?
+Is financial aid available?
+Can I work while in the program?
+What is the program space like?
+What kind of equipment do y'all have?
+
+What is it like to live in New York?
+What kind of job opportunities are available to graduates? 
+Is on-campus housing available?
+I want to do [X]. Is this program a good choice for me?
+Do I need programming experience?
+Will this program make me a programmer?
+
+
+
+Students start in the fall and work through four semesters of classes together with their classmates. 
+All students start in the fall and take a set four-semester sequence of classes together with everyone in their entering class - their cohort. 
+
+what's the most notable, distinguishing characteristic of the program?
+there's two:
+the focus
+the structure
+
+explanation of 
+explanation of focus
+rationale for focus
+explanation of curriculum
+
+
+
+
+WHAT DO YOU MEAN BY GOOD JOBS?
+Full-time jobs in the game/app industry, with solid pay, room for growth, and meaningful input into major creative and/or business decisions.
 
 DOES THE PROGRAM HAVE A SPECIFIC FOCUS?
-Yes, and it is deliberately narrow. All projects you work on in the program will use the Unreal Engine and target mobile VR / AR platforms like the Samsung Gear VR and the upcoming Magic Leap.
+Yes. All projects you work on in the program will use the Unreal Engine and target mobile VR / AR platforms like the Samsung Gear VR and the upcoming Magic Leap. 
 
 WHY IS THE FOCUS SO NARROW?
 To maximize how much you can benefit from your fellow students' experience as you progress through the program together, and to make sure that your skills are deep and well-defined enough to make you employable upon graduation.
@@ -50,12 +136,6 @@ And the platform literacy sequence:
 GDP 612 / Gaming Studies/Theory
 A critical play lab designed to develop broad familiarity with the history of digital games and apps, as well as the advanced mobile VR/AR platform literacy necessary to produce the most relevant and innovative work in the Game and App Design and Development MFA program's production studio classes. Students play, discuss, and analyze a large numer of influential games and apps, completing presentation and critical report assigments that develop their verbal and written communication skills and that focus their attention on platform-specific UX, design, and business choices and considerations.  
 
-"TWO-YEAR" SEEMS PRETTY SELF EXPLANATORY, BUT, JUST IN CASE?
-You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering class (i.e. your cohort). We will work hard with you to help you make the necessary timely progress, but there will be no exceptions to this requirement.
-
-The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
-
-We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
 
 SPEAKING OF PAID, WHAT JOBS SPECIFICALLY MIGHT THIS PROGRAM PREPARE ME FOR?
 Depending on your background and where you focus your effort while in the program, it can prepare you for a position as a game level / narrative designer, a systems / mechanics designer, a UX / interaction designer, a project manager, and/or a producer. You could also leave prepared to be a game programmer - if you come into the program with a strong computer science background and/or substantial prior professional programming experience in another field.
