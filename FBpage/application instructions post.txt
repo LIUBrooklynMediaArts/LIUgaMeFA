@@ -37,7 +37,7 @@ Otherwise, recommendations from your bosses or colleagues are good. A collaborat
 In both cases, we would much rather see a recommendation from someone who knows you personally and can speak in specific detail about your strengths and weaknesses than a generic stamp of approval letter from a "name".
 
 WHAT SHOULD THE PERSONAL STATEMENT BE LIKE?
-The personal statement should be a single file, 100mb or smaller. The format and contents of this file are up to you.
+The personal statement should be a single file, 100mb or smaller. [add info about standard graduate statement requirement]. The format and contents of this file are up to you.
 
 WHAT SHOULD MY CREATIVE PORTFOLIO CONSIST OF?
 It depends on your background and interests. We'll figure it out during the interview, after which you'll have a week or two to put it together. Possible elements include a small map for an existing 3d game, a branching dialog scene, a production plan document, draft wireframes for an original app concept, and/or pseudocode implementing a specific gameplay system or mechanic.

@@ -2,8 +2,7 @@ HELLO, AND WELCOME to the online HQ of the LIU Brooklyn Game and App Design and 
 
 The LIU gaMeFA (the e stands for entrepreneurship) is a new full-time, two-year, 48-credit cohort-based graduate studio program in the Media Arts department of Long Island University's downtown Brooklyn campus.
 
-Many game design MFA programs are relatively freeform and unfocused. 
-The LIU gaMeFA, by contrast, has a tight focus (mobile VR and AR) and a highly structured curriculum. 
+Many game design MFA programs are relatively freeform and unfocused. The LIU gaMeFA, by contrast, has a tight focus (mobile VR and AR) and a highly structured curriculum. 
 
 We have designed the program this way with one main goal in mind: to make sure you graduate with skills deep and marketable enough to get you a good job.
 

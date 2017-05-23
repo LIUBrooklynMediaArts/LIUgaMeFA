@@ -1,6 +1,37 @@
 PROGRAM OVERVIEW
-The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in, specifically and exclusively, mobile VR / AR game and app design and development. See below for some discussion and suggestions if your specific game/app interests lie elsewhere, such as console development.
+The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for good jobs in, specifically, mobile VR/AR game and app design and development.
 
+
+
+Can I work while in the program?
+What is the program space like?
+What kind of equipment do y'all have?
+
+What is it like to live in New York?
+What kind of job opportunities are available to graduates? 
+Is on-campus housing available?
+I want to do [X]. Is this program a good choice for me?
+Do I need programming experience?
+Will this program make me a programmer?
+
+HOW DOES THE PROGRAM WORK?
+
+CAN I WORK WHILE IN THE PROGRAM?
+Not full-time. Although actual class time is limited to about 12 hours a week, classes meet during weekday work hours, and an additional 6 hour weekday time block is set aside for team-based project work.
+
+[expand on the time commitment]
+
+DO I NEED TO HAVE PROGRAMMING EXPERIENCE TO APPLY?
+No, you do not need to have any prior programming experience. You DO need to have a willingness to learn, though, as all students will be expected to complete a large number of individual scripting assignments, as well as to contribute to code on team-based projects.
+
+DOES THAT MEAN I WILL BE A PROGRAMMER WHEN I GRADUATE?
+Yes and no. You will not be competitive for jobs that require a formal computer science background (unless you already have that!) - the kind of heavy duty programming jobs that involve writing new and cutting-edge graphics engines, AI algorithms, etc. You will, however, be skilled at using the Unreal Engine code library to implement complex interactive behavior.
+
+DO I NEED TO BE GOOD AT MATH?
+Absolutely not. If you can use a calculator, you will be fine. This is not a theory heavy, math heavy, fundamental computer science program. This program is about learning how to take the raw tools that computer scientists and mathematicians have created and use these tools to craft games and apps that people want to play, use, and share.
+
+DO I NEED TO HAVE EXPERIENCE DESIGNING GAMES OR APPS? 
+Again, no. The program curriculum does not assume that you are already an experienced game or app designer. 
 
 
 HOW MUCH DOES THE PROGRAM COST?
@@ -12,8 +43,16 @@ Accounting for the likely cost increases in the second year puts the total at ~$
 
 More information, including the latest rates, is available here: http://www.liu.edu/Brooklyn/Enrollment-Services/Tuition
 
-WOW, THAT'S REALLY EXPENSIVE. WOULD I BE BETTER OFF JUST TEACHING MYSELF USING FREE/CHEAP ONLINE TUTORIALS, DOCUMENTATION, AND FORUMS?
-Very possibly. You should seriously consider this route if the cost concerns you or would put you/your family into significant debt.
+...WOW, THAT'S REALLY EXPENSIVE. WOULD I BE BETTER OFF EDUCATING MYSELF USING SOME COMBINATION OF FREE ONLINE RESOURCES, OLD-FASHIONED BOOKS, LOWER-COST ONE-OFF CLASSES, AND/OR LOCAL ENTHUSIAST/LEARNER COMMUNITIES?
+Very possibly. You should seriously consider this route regardless, and you should give it especially serious thought if the cost of the program would put you/your family into significant debt. (When thinking about the cost, consider the possibility of receiving grants and/or scholarships, but consider also the lost income from not being able to work full-time while in the program - the program schedule and the required time commitment make that impractical and highly inadvisable if not impossible).
+
+Unreal Engine is free and well-documented, and the same goes for the standard version of Unity (the other engine you should consider). You can buy a computer capable of VR development, a VR-capable phone, and a mobile VR headset for about $1500-$200 total. There are many free or low cost tutorials, code samples, and assets available online, and many forums full of experienced designers and developers happy to answer your questions. Offline, there are organizations such as Playcrafting which offer high quality and relatively low cost one-off game design and development classes (for example, an 8 week introduction to making games using the Unreal Engine for $2000). 
+
+If you choose the self-education route, we recommend participating in game jams like Ludum Dare and the Global Game Jam, keeping the scope of your projects very small (take whatever you think is small and divide by 10), entering design competitions like the ones regularly administered by the Games For Change festival, applying to incubators and festivals, and attending local VR/AR meetups as ways of finding collaborators and staying focused, confident, and motivated.
+
+
+
+
 
 IS FINANCIAL AID AVAILABLE?
 Yes, both in the forms of loans (which have to be repaid), and grants and scholarships (which don't, but tend to be smaller and/or harder to come by than loans). To find out more about what kinds and amounts of aid you may be eligible for, and how to apply, look here: http://www.liu.edu/Brooklyn/Enrollment-Services/Financial-Aid
@@ -45,28 +84,6 @@ The fall semester runs from September to December, and the spring semester from 
 We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
 
 
-
-
-What about taking cheaper classes through an organization like Playcrafting?
-$2k for a single class -> $8k/semester -> $16k/year
-BUT they don't have more advanced classes
-
- and/or take much cheaper classes through an organization like Playcrafting? 
-
-How does the program work?
-
-How much does the program cost?
-Is financial aid available?
-Can I work while in the program?
-What is the program space like?
-What kind of equipment do y'all have?
-
-What is it like to live in New York?
-What kind of job opportunities are available to graduates? 
-Is on-campus housing available?
-I want to do [X]. Is this program a good choice for me?
-Do I need programming experience?
-Will this program make me a programmer?
 
 
 
